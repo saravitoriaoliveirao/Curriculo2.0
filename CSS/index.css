@@ -130,4 +130,12 @@ h2{
     video{
         margin-left: -20px;
     }
+
+    footer{
+        padding-left: 10px;
+    }
+
+    .pasta{
+        margin-left: -5px;
+    }
 }
