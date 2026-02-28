@@ -99,6 +99,8 @@ h2{
 .pasta{
     width: 50px;
     height: auto;
+    padding-top: 10px;
+    margin-left: 10px;
 }
 
 .div_pasta{
@@ -123,5 +125,9 @@ h2{
 
     .gmail_site{
         display: none;
+    }
+
+    video{
+        margin-left: -20px;
     }
 }
