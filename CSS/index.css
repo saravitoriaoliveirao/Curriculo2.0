@@ -110,7 +110,6 @@ h2{
     display: flex;
 }
 
-
 .gmail_app{
     display:none;
 }
@@ -133,7 +132,7 @@ h2{
 
 .card:hover{
     transform: scale(1.05);
-    background-color: rgb(136, 20, 136);
+    background-color: rgb(52, 27, 52);
 }
 
  
@@ -158,6 +157,10 @@ h2{
 
     video{
         width: 97%
+    }
+
+    .titulo_informe{
+        font-size: 90%;
     }
 
 }
