@@ -121,10 +121,10 @@ h2{
     background-color: rgb(39, 36, 38);
     width: 350px;
     height: auto;
-    padding-left: 30px;
-    padding-top: 10px;
-    padding-bottom: 10px;
     border-radius: 20px;
+    padding: 10px 18px;
+    text-align: center;
+    align-items: center;
     transition: 0.3s
 }
 
@@ -144,10 +144,6 @@ h2{
         display: none;
     }
 
-    video{
-        margin-left: -20px;
-    }
-
     footer{
         padding-left: 25px;
         padding-right: -10px;
@@ -159,7 +155,7 @@ h2{
 
     .card{
         width: 98%;
-        background-color: rgb(205, 11, 11);
+        background-color: rgb(11, 95, 205);
     }
 
     video{
