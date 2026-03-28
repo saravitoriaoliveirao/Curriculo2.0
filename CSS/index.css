@@ -100,7 +100,10 @@ h2{
     width: 50px;
     height: auto;
     padding-top: 10px;
-    margin-left: 10px;
+}
+
+.texto_pasta{
+    margin-right: 10px;
 }
 
 .div_pasta{
@@ -149,13 +152,8 @@ h2{
         padding-right: -10px;
     }
 
-    .pasta{
-        margin-left: -10px;
-    }
-
     .card{
         width: 98%;
-        background-color: rgb(11, 95, 205);
     }
 
     video{
