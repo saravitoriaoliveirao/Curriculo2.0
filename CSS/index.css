@@ -69,6 +69,8 @@ footer p{
 
 .container{
     padding: 0px 50px;
+    padding-left: 110px;
+    padding-right: 110px;
 }
 
 nav a:hover{
@@ -116,6 +118,23 @@ h2{
     height:auto;
     margin-bottom: 100px;
 }
+
+.card{
+    background-color: rgb(39, 36, 38);
+    width: 350px;
+    height: auto;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    transition: 0.3s
+}
+
+.card:hover{
+    transform: scale(1.05);
+    background-color: rgb(136, 20, 136);
+}
+
  
 @media(max-width: 784px){
 
