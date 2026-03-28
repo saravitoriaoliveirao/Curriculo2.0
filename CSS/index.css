@@ -108,6 +108,7 @@ h2{
 
 .informacoes_celular{
     display: none;
+    text-align: left;
     width: auto;
     max-width: 98%;
     margin-left: 30px;
