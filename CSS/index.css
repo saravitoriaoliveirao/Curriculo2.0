@@ -182,6 +182,7 @@ h2{
 
     .informacoes_celular{
         display: block;
+        text-align: justify;
     }
 
     .informacoes_computador{
