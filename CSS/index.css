@@ -99,15 +99,14 @@ h2{
 .informacoes{
     width: 70%;
     margin-left: 50px;
+    display: block;
 }
 
 .informacoes_celular{
     display: none;
     text-align: justify;
-}
-
-.informacoes_computador{
-    display: block;
+    width: 85%;
+    margin-left: 30px;
 }
 
 .certificados:hover{
@@ -184,14 +183,9 @@ h2{
     .informacoes_celular{
         display: block;
     }
-
-    .informacoes_computador{
-        display: none;
-    }
-
+    
     .informacoes{
-        width: 100%;
-        margin-left: 30px;
+        display: none;
     }
 
 }
