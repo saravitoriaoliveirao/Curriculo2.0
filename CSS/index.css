@@ -158,8 +158,12 @@ h2{
     }
 
     .card{
-        width: 90%;
-        background-color: rgb(166, 205, 11);
+        width: 98%;
+        background-color: rgb(205, 11, 11);
+    }
+
+    video{
+        width: 97%
     }
 
 }
