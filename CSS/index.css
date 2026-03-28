@@ -158,8 +158,8 @@ h2{
     }
 
     .card{
-        margin: auto;
-        background-color: aqua;
+        width: 90%;
+        background-color: rgb(166, 205, 11);
     }
 
 }
