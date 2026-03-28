@@ -103,6 +103,7 @@ h2{
 
 .informacoes_celular{
     display: none;
+    text-align: justify;
 }
 
 .informacoes_computador{
@@ -182,7 +183,6 @@ h2{
 
     .informacoes_celular{
         display: block;
-        text-align: justify;
     }
 
     .informacoes_computador{
