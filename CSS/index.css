@@ -26,6 +26,10 @@ header img{
     border: 5px solid hotpink;
 }
 
+section{
+    margin-bottom: 50px;
+}
+
 .center{
     text-align: center;
 }
@@ -90,6 +94,11 @@ h2{
 
 .sobre-mim{
     margin-top: 35px;
+}
+
+.informacoes{
+    width: 70%;
+    margin-left: 50px;
 }
 
 .certificados:hover{
